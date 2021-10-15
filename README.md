@@ -3,12 +3,13 @@
 
 ## CONTENIDO🛠️
 
-- CODIGO FUENTE - EN LENGUAJE ENSAMBLADOR
-- MANUAL DE USUARIO
-- DOCUMENTACION
-- ESQUEM DEL DISE;O
-- ANALISIS
-- TABLERO DE TAREAS Y ANALISIS
+- CODIGO FUENTE - EN LENGUAJE ENSAMBLADOR (proyect.asm)
+- EJECUTABLE - TASM (PROYECT.OBJ)
+- EJECUTABLE - TLINK X86 (PROYECT.EXE)
+
+- MANUAL DE USUARIO - <a href="https://github.com/MJRHgt/MatrizCuadrada/tree/main/Documentacion"> Documentacion  </a>
+- ANALISIS <a href="https://github.com/MJRHgt/MatrizCuadrada/tree/main/Documentacion"> Documentacion  </a>
+- TABLERO DE TAREAS - <a href="https://github.com/MJRHgt/MatrizCuadrada/projects"> GitHub </a>
 
 ## Ejecutando las pruebas ⚙️
 
